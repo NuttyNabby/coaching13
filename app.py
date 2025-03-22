@@ -1,1 +1,3 @@
-import utils\nutils.greeting("Nabilah")
+import utils
+utils.greeting("Nabilah")
+utils.goodbye()
